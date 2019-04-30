@@ -7,7 +7,7 @@ public class Fabonacci {
 		fibonacci(13);
 	}
 
-	
+	 //kuuiui
 	public static int fibo(int x) {
 		int fabonacci=0;
 		if(x==1||x==2)
